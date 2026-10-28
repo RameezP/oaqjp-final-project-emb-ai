@@ -1,4 +1,4 @@
-# Final project
+# Final project.
 
 This project implements an AI-based Emotion Detection web application using Watson NLP.
 
